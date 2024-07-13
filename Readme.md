@@ -15,5 +15,3 @@ Matlab Implementation
     
     mu = 0.05, lambda = 0.6, c = 0.2: Yahoo! News, Soccer Player
     
-    mu = 0.05, lambda = 0.7, c = 0.2: Soccer Player
-    
