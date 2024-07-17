@@ -1,4 +1,4 @@
-### Partial Label Learning via Cost-Guided Retraining
+### Partial Label Learning via Cost-Guided Retraining, 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE(ECAI 2024)
 Matlab Implementation          
 
 1. How to start?
